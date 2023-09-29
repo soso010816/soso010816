@@ -1,12 +1,13 @@
-# brief self_intro
+# Self Intro
 just brief introduction about cheng liu.
-Education:
+
+## Education:
   * Undergraduate: Hunan University
     * Major: Statistics
-Email:
+## Email:
   * 2410051088so@gmail.com
-Website:
+## Website:
   * chengliu.top
   * dearsoso.cn
-Preference:
+## Preference:
   * LLM, AIGC, Statistics...
