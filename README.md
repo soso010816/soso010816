@@ -6,6 +6,6 @@ This is just a brief introduction about cheng liu.
       
 * Email: 2410051088so@gmail.com
     
-* Website: chengliu.top
+* Website: [chengliu.top](https://chengliu.top/)
     
 * Preference: LLM, AIGC, Statistics...
