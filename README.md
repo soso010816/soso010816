@@ -5,9 +5,5 @@ This is just a brief introduction about cheng liu.
     * Major: Statistics
       
 * Email: 2410051088so@gmail.com
-
-* Resume: [chengliu.resume.com](https://github.com/soso010816/soso010816/blob/main/cv.png)
-
-* Website: [chengliu.top](https://chengliu.top/)
     
 * Preference: LLM, AIGC, Statistics...
